@@ -118,7 +118,7 @@ eg:
 http://static.abhiraj.ga.s3-website.ap-south-1.amazonaws.com  >  static.abhiraj.ga
 ~~~
 
-Amazon Route53 is a highly available and scalable DNS service. I have already configured my domain "abhiraj.ga" in the rout 53. I suggest you to navigate to rout 53 and add a A record for your domain statc.abhiraj.ga and enable Alias.
+Amazon Route53 is a highly available and scalable DNS service. I have already configured my domain "abhiraj.ga" in the rout 53. I suggest you to navigate to rout 53 and add a A record for your domain static.abhiraj.ga and enable Alias.
 
 ![Screenshot from 2022-03-14 12-05-53](https://user-images.githubusercontent.com/100773790/158117844-8396d446-3050-467a-94f3-c12cdd14c6b2.png)
 
