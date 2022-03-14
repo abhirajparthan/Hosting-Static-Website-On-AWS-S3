@@ -122,7 +122,7 @@ Amazon Route53 is a highly available and scalable DNS service. I have already co
 
 ![Screenshot from 2022-03-14 12-05-53](https://user-images.githubusercontent.com/100773790/158117844-8396d446-3050-467a-94f3-c12cdd14c6b2.png)
 
-Then add end point to "Alias to S3 website endpoint" and choose rejion "ap-south-1" ( beacouse we are created the bucket in the ap-south-1 ). Then add ent point name ( click end point and you can see the bucket name with region ) and create record.
+Then add the end point to "Alias to S3 website endpoint" and choose region "ap-south-1" ( because we are created the bucket in the ap-south-1 ). Then add ent point name ( click endpoint and you can see the bucket name with the region ) and create a record.
 
 ![Screenshot from 2022-03-14 12-11-00](https://user-images.githubusercontent.com/100773790/158118477-f69eb540-a32c-4bd2-ae62-48a33450c536.png)
 
